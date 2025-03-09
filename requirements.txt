@@ -1,0 +1,6 @@
+Flask
+autogen
+requests
+flask-cors
+configparser
+typing-extensions

@@ -136,6 +136,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Ignore configuration files
+OAI_CONFIG_LIST.json
+
 # Spyder project settings
 .spyderproject
 .spyproject
